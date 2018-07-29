@@ -1,0 +1,6 @@
+Potential templates:
+
+https://github.com/Phlow/feeling-responsive
+https://github.com/CloudCannon/hydra-jekyll-template
+https://github.com/mmistakes/skinny-bones-jekyll
+https://github.com/aksakalli/jekyll-doc-theme
