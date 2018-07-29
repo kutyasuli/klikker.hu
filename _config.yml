@@ -1,2 +1,9 @@
 theme: jekyll-theme-cayman
 #remote_theme: aksakalli/jekyll-doc-theme
+
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji

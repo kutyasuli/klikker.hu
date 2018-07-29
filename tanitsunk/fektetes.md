@@ -1,0 +1,22 @@
+Fektetés – rávezetéses módszer	PDF	Nyomtatás
+Olvasóink értékelése: / 15 
+ElégtelenKitűnő 
+Írta: Hornig Rudolf	  
+Az ültetéses módszer esetében a spontán megtörténő viselkedéseket erősítettük meg. De mit csinálhatunk, ha egy viselkedést a kutya még csak véletlenül se ajánl fel önként? Például feküdni szeretnénk megtanítani kiskutyánkat, de valahogy hiába várjuk, ha klikker van a kezünkben olyan izgatott, hogy nem nagyon fekszik le soha.
+
+ 
+
+Ez esetben egy kicsit rásegíthetünk, hogy mégiscsak lefeküdjön. Vegyünk a kezünkbe egy jutalomfalatot és mutassuk meg a kutyának is, hogy ott van. Tegyük a tenyerünkbe a falatot és zárjuk össze az öklünk (nem kell szorítani, csak annyira zárjuk be, hogy a kutya ne férhessen hozzá). Ültessük le a kiskutyát és jutalomfalatot fogó kezünket tegyük az orra elé, majd mozdítsuk el a kezünket úgy, hogy a földre kerüljön, körülbelül arra a helyre ahova a kutya orra kerülne, ha lefeküdne az ülő pozícióból. Itt két dolog történhet: ha a kutya felugrik az ülő pozícióból azonnal vegyük el a kezünket és álljunk fel, hogy még véletlenül se férhessen hozzá a falathoz. Egy picit várjunk, majd próbáljuk meg újra. A másik lehetőség, hogy azért, hogy közelebb kerüljön a falathoz, elkezd lefeküdni. Ebben a pillanatban klikkeljünk és azonnal nyissuk ki a tenyerünket, hogy hozzáférjen a jutalomhoz (nem baj ha felugrik és úgy eszi meg, de ha fekve eszi meg az még jobb). Mozduljunk el egy kicsit, vagy csak ültessük fel a kutyát és ismételjük meg a gyakorlatot. Néhány alkalom után észre fogjuk venni, hogy egyre határozottabban fekszik, amikor kezünket a földre visszük. Ismét gyakoroljuk ezt különböző helyeken, hogy a kutya megfelelően általánosíthasson.
+
+ 
+
+Ha úgy gondoljuk, hogy a „csalival” teli kezünkkel már biztosan le tudjuk fektetni, itt az idő a következő lépcsőhöz. Nyilván azt szeretnénk, ha a „feküdj” jelre bármikor lefeküdne a kutyánk és nem csak akkor, ha épp egy darab kolbásszal csalogatjuk le a földre. Ismételjük meg a gyakorlatot, de most már ne tegyünk a bezárt öklünkbe jutalomfalatot. Figyeljünk, hogy minden egyéb része a gyakorlatnak ugyanúgy nézzen ki. Próbáljuk meg, a már begyakorolt mozdulattal lefektetni a kutyát. Ha sikerült K/J. Természetesen itt már nincs a kezünkben semmi, tehát a jutalom a zsebünkből jön. Ha felkel a kutya, amikor meghallja a klikkert, nem baj. A lényeg, hogy pontosan akkor klikkeljünk, amikor a könyöke elérte a földet. Gyakoroljunk így is és lassanként nem is kell becsukni az öklünket, elég, ha csak a megszokott föld felé történő mozdulatot tesszük, akár az ujjunkkal mutatva most már lefelé. Gyakoroljuk ezt is több helyen. Ha már magabiztosan le tudjuk fektetni kézjellel itt az ideje, hogy bevezessük a hangjelet is.
+
+ 
+
+Hasonlóan mint, mint az ültetésnél, adjuk ki a kézjelet a fekvésre és közben mondjuk a „fekszik” hangjelet is. Ezt a párosítást szintén 40-50 alkalommal erősítsük meg (K/J). Ha ez megvolt, próbáljuk kiadni csak a hangjelet. Ha a kutya reagál rá és lefekszik K/J. ( figyelem! Ne változzon semmi más a környezetben, csak a kézjel maradjon el. Tehát ha pl. eddig mindig a kutyával szemben, vagy mellette guggoltunk, akkor most is tegyünk úgy, különben túl sok minden fog változni és nem fogja érteni mit várunk tőle). Ezen túl már csak a hangjellel gyakoroljunk és természetesen az önálló fekvéseket most már nem kell megerősítenünk, csak azokat amik a fekszik jel után történtek. Ha a kutya már magabiztosan fekszik a hangjelre, próbáljuk meg finoman változtatni, kiiktatni a többi jelet, pl. már nem guggolunk le, csak lehajolunk hozzá, aztán már felegyenesedve adjuk ki a jelet stb. A fantáziánkra (és elszántságunkra) van bízva, hogy mennyire általánosítjuk a viselkedést.
+
+ 
+
+
+Látható, hogy az rávezetéses módszer segítségével sokkal könnyebb volt kialakítani az alap viselkedést, mintha ki kellett volna várjuk, hogy magától történjen, viszont egy komoly hátránya is volt. A jutalmat tartó kezünk mozdulata, illetve maga a jutalomfalat vált a fekvés kiváltó jelévé. E miatt sokat kellett dolgoznunk, hogy ezeket a jeleket fokozatosan kiiktassuk és csak hangjelre is sikeresen feküdjön a kutya. Ha ezt nem tettük volna meg, kutyánk ugyan tudna feküdni, de csak akkor, ha van nálunk jutalomfalat és lemutogatunk vele a földre (és ez igazán nem nevezhető megbízható végrehajtásnak). A kezdeti könnyebbségnek tehát ára van. Mikor eldöntjük, hogy melyik módszert választjuk egy adott feladat tanításához, ezt mindig vegyük figyelembe.
