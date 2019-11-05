@@ -1,4 +1,8 @@
-# Mi is az a KLIKKER?
+---
+layout: default
+---
+
+# Mi is az a KLIKKER ?
 
 Vannak, akik azt hiszik, hogy egy távirányító, olyan szerkezet, amivel megmondhatjuk az állatoknak, hogy mikor- mit tegyenek.
 Pedig erről szó sincs! A klikker egy tanítási segédeszköz és csak egy dologra való: arra, hogy könyebbé tegye a kommunikációt
