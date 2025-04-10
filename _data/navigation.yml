@@ -1,6 +1,52 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Home
+  url: /
+
+- title: Tanítsunk
+  url: /tanitsunk/
+  subitems:
+    - title: Bukfenc
+      url: /tanitsunk/bukfenc.html
+    - title: Célkövetés
+      url: /tanitsunk/celkovetes.html
+    - title: Első Gyakorlatok
+      url: /tanitsunk/elso-gyakorlatok.html
+    - title: Fektetés
+      url: /tanitsunk/fektetes.html
+    - title: Hátralás
+      url: /tanitsunk/hatralas.html
+    - title: Hogyan kezdjünk?
+      url: /tanitsunk/hogyan-kezdjunk.html
+    - title: Húz
+      url: /tanitsunk/huz.html
+    - title: Integetés
+      url: /tanitsunk/integetes.html
+    - title: Szabadonkövetés
+      url: /tanitsunk/szabadonkovetes.html
+    - title: Szembenézés
+      url: /tanitsunk/szembenezes.html
+    - title: Ültetés
+      url: /tanitsunk/ultetes.html
+
+- title: Tanuljunk
+  url: /tanuljunk/
+  subitems:
+    - title: A klikkerképzés története
+      url: /tanuljunk/a-klikkerkepzes-tortenete.html
+    - title: Az operáns tanulásról és kiképzésről
+      url: /tanuljunk/az-operans-tanulasrol-es-kikepzesrol.html
+    - title: Elhagyás
+      url: /tanuljunk/elhagyas.html
+    - title: Etológia
+      url: /tanuljunk/etologia.html
+    - title: Időzítés
+      url: /tanuljunk/idozites.html
+    - title: Jelek
+      url: /tanuljunk/jelek.html
+    - title: Jeltranszfer
+      url: /tanuljunk/jeltranszfer.html
+    - title: Keresztképzés
+      url: /tanuljunk/keresztkepzes.html
+    - title: Viselkedéslánc
+      url: /tanuljunk/viselkedeslanc.html

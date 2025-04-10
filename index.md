@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# Üdvözöllek a Klikkeres Képzés Weboldalán!
+Szeretettel üdvözöllek a klikkeres képzés világában! Ezen az oldalon mindent megtalálsz, ami a klikkeres képzésről szól, legyen szó a képzés alapjairól, vagy gyakorlatokról. Fedezd fel a klikkeres képzés izgalmas világát!
 
 # Mi is az a KLIKKER ?
 

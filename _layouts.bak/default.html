@@ -29,14 +29,10 @@
 
   </head>
 
-  <body>
-    <main>
-      <div id="main" role="main" class="main">
-        {{ content }}
-      </div>
-    </main>
-  </body>
-</html>
+  <body id="js-body">
+    {% include browser-upgrade.html %}
+    {% include header.html %}
+    {% include navigation-sliding.html %}
 
     <div id="page-wrapper">
       {{ content }}
