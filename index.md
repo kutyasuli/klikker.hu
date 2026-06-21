@@ -7,7 +7,6 @@ title: "Kezdőlap"
   <div class="hero__bubbles" aria-hidden="true">
     <span class="hero__bubble">🐶</span>
     <span class="hero__bubble">🦴</span>
-    <span class="hero__bubble">🐱</span>
     <span class="hero__bubble">🐾</span>
   </div>
   <div class="hero__inner">
@@ -37,14 +36,6 @@ title: "Kezdőlap"
         <span class="card__title">Tanuljunk</span>
         <span class="card__desc">Az elmélet: hogyan tanulnak az állatok, mi az időzítés, a jelek és a megerősítés titka.</span>
         <span class="card__more">Elmélet →</span>
-      </a>
-    </li>
-    <li>
-      <a class="card card--coral" href="/macska.html">
-        <span class="card__emoji">🐱</span>
-        <span class="card__title">Macska</span>
-        <span class="card__desc">Igen, a macska is klikkerezhető! Csak épp a maga makacs, cicás módján.</span>
-        <span class="card__more">Cicázzunk →</span>
       </a>
     </li>
   </ul>
