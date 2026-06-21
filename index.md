@@ -88,6 +88,8 @@ saját magadnak is. Taníts olyan dolgokat, amelyek merőben feleslegesek, de sz
 
 ## Klikker-érzés:
 
+![A kis herceg és a róka - Szelidíts meg!]({{ site.url }}/images/kisherceg.jpg)
+
 > - Gyere, játsszál velem - javasolta a kis herceg. - Olyan szomorú vagyok...
 > - Nem játszhatom veled - mondta a róka. - Nem vagyok megszelídítve.
 > - Ó, bocsánat! - mondta a kis herceg. Némi tűnődés után azonban hozzátette: - Mit jelent az, hogy "megszelídíteni"?
@@ -103,10 +105,6 @@ saját magadnak is. Taníts olyan dolgokat, amelyek merőben feleslegesek, de sz
 > - Sok-sok türelem kell hozzá - felelte a róka. - Először leülsz szép, tisztes távolba tőlem, úgy, ott a fűben.
 >   Én majd a szemem sarkából nézlek, te pedig nem szólsz semmit. A beszéd csak félreértések forrása. De minden
 >   áldott nap egy kicsit közelebb ülhetsz...
-
-Részletek a Kishercegből.
-
-**Szelidíts meg**
 
 </div>
 </section>
