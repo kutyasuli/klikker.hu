@@ -60,7 +60,7 @@ hosszan tartó viselkedés
 : (Keep Going Signal (KGS)): Haladó klikker kiképzés során alkalmazott jelzés, ami egyszerűen azt az információt adja a kutya számára, hogy jó úton halad, és az éppen végzett cselekvést folytatva megerősítést fog elérni. (meleg)
 
 inger
-: (Stimulus): Valamilyen változás a (külső vagy belső) környezetben. Ha az ingernek semmilyen hatása  nincs a kutyára, `semleges ingernek` nevezzük. `Diszkriminatív ingernek` akkor számít,  amennyiben az alany számára egyértelműen jelzi, hogy egy meghatároz ott (és nem más)  viselkedés szükséges az adott helyzetben, függetlenül a fennálló  egyéb környezeti  hatásoktól és ingerektől.
+: (Stimulus): Valamilyen változás a (külső vagy belső) környezetben. Ha az ingernek semmilyen hatása  nincs a kutyára, `semleges ingernek` nevezzük. `Diszkriminatív ingernek` akkor számít,  amennyiben az alany számára egyértelműen jelzi, hogy egy meghatározott (és nem más)  viselkedés szükséges az adott helyzetben, függetlenül a fennálló  egyéb környezeti  hatásoktól és ingerektől.
 
 inger kontroll
 : (Stimulus control): A kritérium, amely alapján meghatározható, hogy egy viselkedés valóban egy adott jelhez van-e rögzítve. Az ingeri ellenőrzés négy fontos feltételt foglal magába:<br>1) a kutya X viselkedést produkálja az X jelre (leül ha azt mondják `ül`).<br>2) a kutya nem produkál Y viselkedést X jelre (nem fekszik, ha azt mondják `ül`)<br>3) a kutya nem produkál X viselkedést Y jelre (nem ül, ha azt mondják `fekszik`)<br>4) a kutya nem produkál magától X viselkedést, kizárólag csak X jelre (azaz csak a `hozzám` jelre, megy a vezetőhöz és nem korábban)

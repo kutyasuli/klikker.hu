@@ -55,7 +55,7 @@ Vannak, akik azt hiszik, hogy egy távirányító, olyan szerkezet, amivel megmo
 Pedig erről szó sincs! A klikker egy tanítási segédeszköz és csak egy dologra való: arra, hogy könyebbé tegye a kommunikációt
 köztünk és az alany között.
 
-A klikker valójában legyőzi a különböző fajok közti kommunkikációs szakadékot és képes egyértelművé tenni, hogy mit várunk a tanulótól.
+A klikker valójában legyőzi a különböző fajok közti kommunikációs szakadékot és képes egyértelművé tenni, hogy mit várunk a tanulótól.
 
 Ez az oldal arra hivatott, hogy eloszlassa a tévhiteket, és megnyissa mindazokat a kapukat, amelyek a szófogadó kutya, az
 agilityző degu, vagy a mosolygó gyermekhez vezetnek. Ez az oldal azért készült, hogy segítséget nyújtson mindazoknak, akik

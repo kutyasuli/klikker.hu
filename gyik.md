@@ -20,7 +20,7 @@ category: reszletek
       <p class="faq__a">Igen a klikker az egy szerződés közted és a kutya között. Ha te rontottad el, neked kell érte megbűnhődnöd, nem a kutyának.</p>
     </div>
     <div class="faq__item">
-      <p class="faq__q">Mi történik, ha többször rosszkor klikkerek?</p>
+      <p class="faq__q">Mi történik, ha többször rosszkor klikkelek?</p>
       <p class="faq__a">Számíts rá, hogy a kutya újra be fog vele próbálkozni, hiszen meg lett érte jutalmazva. Fokozottan figyelj, hogy legközelebb ne történjen meg. Esetleg menjetek egy kicsit odébb, hátha a kutya ott nem folytatja. Ha úgysem megy, kezd előlről.</p>
     </div>
     <div class="faq__item">
@@ -29,7 +29,7 @@ category: reszletek
     </div>
     <div class="faq__item">
       <p class="faq__q">A klikkerezéssel elronthatom a kutyát?</p>
-      <p class="faq__a">Ha rosszul klikkerezel, akkor taníthatsz neki furcsa dolgokat, vagy előfordulhat, hogy a kutya nem fog fejlődni. Ilyenkor azt történik, hogy eteted a kutyát, de kárt nem okozol benne. A többi kiképzési technika félrealkalmazásával szemben a rossz klikkerezés nem okoz félelmet, elkerülő magatartást és agressziót sem (hacsak nem mindíg az agresszív viselkedésre klikkelsz).</p>
+      <p class="faq__a">Ha rosszul klikkerezel, akkor taníthatsz neki furcsa dolgokat, vagy előfordulhat, hogy a kutya nem fog fejlődni. Ilyenkor azt történik, hogy eteted a kutyát, de kárt nem okozol benne. A többi kiképzési technika félrealkalmazásával szemben a rossz klikkerezés nem okoz félelmet, elkerülő magatartást és agressziót sem (hacsak nem mindig az agresszív viselkedésre klikkelsz).</p>
     </div>
     <div class="faq__item">
       <p class="faq__q">A klikkert bármilyen fajú állatnál használhatom?</p>
