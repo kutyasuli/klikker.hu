@@ -25,17 +25,15 @@
     });
   }
 
-  // --- Footer clicker mascot: make a satisfying CLICK! ---
-  var mascot = document.getElementById("mascot");
-  if (mascot) {
+  // --- Clicker mascot: make a satisfying CLICK! ---
+  document.querySelectorAll(".mascot").forEach(function (mascot) {
     mascot.addEventListener("click", function () {
       mascot.classList.remove("is-clicked");
-      // force reflow so the animation can restart
       void mascot.offsetWidth;
       mascot.classList.add("is-clicked");
     });
     mascot.addEventListener("animationend", function () {
       mascot.classList.remove("is-clicked");
     });
-  }
+  });
 })();

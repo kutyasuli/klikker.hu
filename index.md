@@ -10,7 +10,12 @@ title: "Kezdőlap"
     <span class="hero__bubble">🐾</span>
   </div>
   <div class="hero__inner">
-    <span class="hero__badge">KLIKK! 🦴</span>
+    <button class="mascot" type="button" aria-label="Klikk!">
+      <span class="mascot__click" aria-hidden="true">KLIKK!</span>
+      <span class="mascot__body">
+        <span class="mascot__btn"></span>
+      </span>
+    </button>
     <h1>Üdvözöllek a Klikkeres Képzés Weboldalán!</h1>
     <p class="hero__lead">Szeretettel üdvözöllek a klikkeres képzés világában! Ezen az oldalon mindent megtalálsz, ami a klikkeres képzésről szól, legyen szó a képzés alapjairól, vagy gyakorlatokról. Fedezd fel a klikkeres képzés izgalmas világát!</p>
     <div class="hero__actions">
