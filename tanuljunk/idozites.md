@@ -1,5 +1,9 @@
-Időzítés
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Időzítés"
+category: tanuljunk
+---
+
 Akár megerősítésről, akár büntetésről beszélünk, az időzítés emberek és állatok életében egyaránt nagyon fontos. Ahogy azt már tudjuk, egy viselkedés akkor változik meg, ha annak következményei arra ösztönöznek minket (tehát ha belenyúlok egy darázsfészekbe és összecsipkednek a darazsak, legközelebb nem fogok belenyúlni, ha ellenben bemegyek a cukrászdába és kapok egy ingyen fagyit, akkor legközelebb is bemegyek (feltéve persze, hogy szeretem a fagyit)). Ehhez azonban szükség van arra, hogy felismerjük a viselkedés és a következmény közötti összefüggést (a darázsfészekbenyúlás és a csípések közti összefüggést). Természetesen minél rövidebb idő telik el ok és okozat között, annál nagyobb az esély arra, hogy felismerjük az összefüggést. Hiába gondoljuk azt, hogy megjutalmaztunk, vagy megbüntettünk valamilyen viselkedést, ha azt az alany nem ismeri fel. Nem csak az állatok esetében, de az emberek esetében is gyakran rosszkor jutalmazunk és büntetünk.
 
 Ennek szemléltetésére egy saját élményt írok le: A fiam nem túlzottan szeret tanulni, ennek megfelelően néha egyeseket hoz haza. Az emberi szokásoknak megfelelően alaposan le is szidtam ezért, esetleg eltiltottam a számítógéptől, vagy a tévétől. Úgy gondoltam, hogy alaposan meg is büntettem a rossz tanulást és ezért majd a jövőben jobban fog tanulni, de nem ez történt, ellenben egyre kevésbé merte bevallani a rossz jegyeit. Tehát hiába mondtam el neki, hogy ez azért van, mert rosszul tanult, valójában nem ezt a viselkedést büntettem meg, hanem azt, hogy elmondta az egyest. Pedig köztünk van verbális kommunikáció. Nézzük meg az oktatási és büntetés-végrehajtási intézményeinket. Minden esetben túl későn érkezik az információ. Vegyünk például egy tolvajt, akit a lopás után 2 évvel ítélnek el. Vajon tényleg megbüntettük a lopást magát? Igen, ha soha többé nem fog lopni. De ismerjük be, hogy a tolvajok többsége nem azt mondja, hülye voltam, loptam,- hanem azt: béna voltam,- elkaptak. Tehát amit tanult, az nem az, hogy nem szabad lopni, hanem hogy jobban kell figyelni a nyomok eltakarítására.

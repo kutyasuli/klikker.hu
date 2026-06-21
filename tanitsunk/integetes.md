@@ -1,7 +1,9 @@
-Integetés - Viselkedés formálás	PDF	Nyomtatás
-Olvasóink értékelése: / 12 
-ElégtelenKitűnő 
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Integetés - Viselkedés formálás"
+category: tanitsunk
+---
+
 viselkedés formálás
 
 Mit tehetünk, ha valami olyasmit szeretnénk tanítani, amit kutyánk nem csinál szinte soha magától, ugyanakkor jutalomfalat lobogtatásával sem tudjuk rávenni? Ilyen feladat például, ha integetni szeretnénk megtanítani a kutyát. Mindenki el tudja képzelni, hogy elég sokáig kellene várnunk, hogy a kutyánk egyszer csak integessen egyet, hogy mi klikkelni tudunk. Másrészt az is belátható, hogy hiába lóbálunk az orra előtt egy virslit, nem fog rájönni, hogy attól jobb lábbal integetni kellene. Mi lehet tehát a megoldás? A probléma megoldása abban rejlik, hogy nincs szükség arra, hogy elsőre egy tökéletes integetést produkáljon. Elég ha csak valami olyasmit csinál, ami a végleges gyakorlat irányába mutat. Vagyis elsőre nem várjuk el a véglegest viselkedést, hanem csak egy nagyon-nagyom kezdetleges változatát tanítjuk.

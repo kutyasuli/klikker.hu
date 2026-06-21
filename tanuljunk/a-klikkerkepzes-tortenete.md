@@ -1,5 +1,8 @@
-# A klikkerképzés történe
-Írta: Hornig Rudolf
+---
+layout: default
+title: "A klikkerképzés története"
+category: tanuljunk
+---
 
 A kutyák kiképzésére nincsenek (vagy nem ismerünk) általános, örök érvényű módszereket. Tudásunk és módszereink – mint az élet annyi más területén – lépésről lépésre változnak, finomodnak. Azon kiképzési technikák, melyek 20 éve még általánosak voltak, ma nevetségesnek és sokszor brutálisnak tűnnek, csak úgy, mint ahogy mosolyra fakaszt minket egy 20 évvel ezelőtti „csúcstechnológiás HI-FI torony” látványa. Ha lassan is, de úgy tűnik a tudomány belopja magát mindenhova. Igen, még a kutyakiképzés világába is...
 

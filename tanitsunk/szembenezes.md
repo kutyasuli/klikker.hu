@@ -1,7 +1,9 @@
-Szembenézés, avagy a koncentráció növelése	PDF	Nyomtatás
-Olvasóink értékelése: / 29 
-ElégtelenKitűnő 
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Szembenézés, avagy a koncentráció növelése"
+category: tanitsunk
+---
+
 Sok ember elsők között a szembenézést tanítja meg. Ez azért hasznos, mert növeli a kutya koncentrációját, de ezen felül mindenképpen építi a gazda/kutya kapcsolatot. A kutyák jobban megértik a test és kézjeleket, mint mondjuk a hangjeleket, és sok feladat tanításánál a testünkkel is egyértelmű jelzést adunk, bár ezt legtöbbször nem vesszük észre. Ehhez még az is hozzájárul, hogy a kutyák igen jó megfigyelők. Ha ezeket a tulajdonságokat mind összerakjuk, rájöhetünk arra, hogy miért könnyű a kutyáknak a feladat tanítása: azért, mert egyébként is sokszor néznek ránk... 
 
 Természetesen vannak olyan kutyák, akik más módszerekkel voltak képezve, esetleg menhelyes, rosszul szocializált kutyusok, akik soha nem néznek az emberek szemébe. Én ezeknél a kutyáknál is ezt a feladatot tanítanám először, mégpedig feszültség oldásaként, a bizalom építéseként. A feladat elején nem szabad elvárni, hogy a kutya rögtön a szemünkbe nézzen, hiszen a kutyáknál a szembenézés a támadás egyik jele. Persze, ha a kutya már megtanulta, hogy ez nem rossz, akkor szívesen fog a szemünkbe nézni, ezáltal könnyű maga a tanítás is. Ha farokcsóválós, barátságos, jól szocializált kutyával klikkerezünk, akkor viszonylag egyszerű dolgunk lesz, de lehet találkozni más esetekkel, ahol ennél bonyolultabb a dolog.

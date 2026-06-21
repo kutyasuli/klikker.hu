@@ -1,7 +1,9 @@
-Fektetés – rávezetéses módszer	PDF	Nyomtatás
-Olvasóink értékelése: / 15 
-ElégtelenKitűnő 
-Írta: Hornig Rudolf	  
+---
+layout: default
+title: "Fektetés – rávezetéses módszer"
+category: tanitsunk
+---
+
 Az ültetéses módszer esetében a spontán megtörténő viselkedéseket erősítettük meg. De mit csinálhatunk, ha egy viselkedést a kutya még csak véletlenül se ajánl fel önként? Például feküdni szeretnénk megtanítani kiskutyánkat, de valahogy hiába várjuk, ha klikker van a kezünkben olyan izgatott, hogy nem nagyon fekszik le soha.
 
  

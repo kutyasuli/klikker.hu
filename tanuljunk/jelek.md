@@ -1,5 +1,8 @@
-Jelek bevezetése, ingerkontroll
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Jelek bevezetése, ingerkontroll"
+category: tanuljunk
+---
 
 A legtöbb ember nem csak egy viselkedést szeretne tanítani, hanem azt szeretné, ha az állat az adott viselkedést egy adott jelre produkálná. Hiszen mit ér, ha a kutyánk szeret leülni, de nem ül le a buszon, vagy a járdaszegély mellett?
 

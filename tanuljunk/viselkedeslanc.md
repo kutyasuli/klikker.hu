@@ -1,5 +1,8 @@
-Viselkedéslánc
-Írta: Vlcek Gabriella
+---
+layout: default
+title: "Viselkedéslánc"
+category: tanuljunk
+---
 
 Hivatalosan a viselkedés lánc olyan viselkedések sorozata, amit egy darab jel vált ki.  
 Ez azonban ennél bonyolultabb, hiszen ha nem jelezné valami, hogy mikor kezdődjék a következő viselkedés, akkor hogy is tudnánk eldönteni? Vegyük például egy egyszerű e-mail elolvasását. Ehhez olyan dolgokat kell tennünk, amelyek sorrendje egyáltalán nem lényegtelen. Először oda kell mennünk a számítógéphez, be kell kapcsolnunk, fel kell lépnünk az internetre (manapság ezt már a számítógép elintézi helyettünk), meg kell nyitnunk a levelező programot, majd magát az e-mailt. Azonban ha bármelyik lépés kimarad, vagy csak meg akarjuk keverni a sorrendet, akkor már nem jutunk el a célig.

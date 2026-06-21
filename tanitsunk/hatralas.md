@@ -1,7 +1,9 @@
-Hátrálás	PDF	Nyomtatás
-Olvasóink értékelése: / 15 
-ElégtelenKitűnő 
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Hátrálás"
+category: tanitsunk
+---
+
 Mielőtt elkezdenénk ezt a témát, lenne egy kérésem:
 Menj ki az utcára és kezdj el hátrálni. Nem gond, ugye? Most úgy hátrálj, hogy közben ne nézz hátra és gyorsíts fel. Ez már kellemetlenebb ugye? Esetleg rajzolj fel krétával egy egyenes csíkot és úgy hátrálj gyorsan, hogy nem nézel rá. Nos? Rajta maradtál a csíkon? Gyorsan hátráltál? Nem néztél vissza?
 Ez nem is olyan egyszerű, ugye? :-) Ennek ellenére el kell mondjam, hogy a hátrálást megtanítani egy kutyának nem is annyira nehéz, de úgy megtanítani, hogy hosszan, gyorsan és egyenesen is hátráljon... Az már egy kicsit összetettebb feladat. Persze, mint azt megszokhattuk ennek több módja is van.

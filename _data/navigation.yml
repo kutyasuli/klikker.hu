@@ -50,3 +50,19 @@
       url: /tanuljunk/keresztkepzes.html
     - title: Viselkedéslánc
       url: /tanuljunk/viselkedeslanc.html
+
+- title: Részletek
+  url: /definiciok.html
+  subitems:
+    - title: Definíciók
+      url: /definiciok.html
+    - title: Felszerelés
+      url: /felszereles.html
+    - title: GYIK
+      url: /gyik.html
+    - title: Könyvajánló
+      url: /konyvek.html
+    - title: Macska
+      url: /macska.html
+    - title: Blog
+      url: /idblog.html

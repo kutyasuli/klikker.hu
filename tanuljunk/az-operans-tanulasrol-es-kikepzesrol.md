@@ -1,5 +1,8 @@
-Az operáns tanulásról és kiképzésről
-Írta: Hornig Rudolf
+---
+layout: default
+title: "Az operáns tanulásról és kiképzésről"
+category: tanuljunk
+---
 
 Operáns kondicionálás. Ezzel a két szóval egyre gyakrabban találkozhatunk mostanság. Noha sokakban ijesztő, szinte túlzottan tudományoskodó benyomást kelt, mégis érdemes egy pillanatra megállnunk és elgondolkodnunk, mit is jelent valójában, honnan jött és van-e egyáltalán haszna számunkra, ha megértjük a működését? Miért kell, hogy azokat a módszereket – melyeket nap mint nap használunk a kutyák és más állatok tanítása, kiképzése során – mindenféle tudományos elméletekkel próbáljuk magyarázni?
 

@@ -1,7 +1,9 @@
-Ültetés, spontán viselkedések megerősítése	PDF	Nyomtatás
-Olvasóink értékelése: / 22 
-ElégtelenKitűnő 
-Írta: Hornig Rudolf	  
+---
+layout: default
+title: "Ültetés, spontán viselkedések megerősítése"
+category: tanitsunk
+---
+
 Tankoljunk fel jutalomfalatokkal (mondjuk legalább 50), vegyük magunkhoz a klikkert (és a kutyánkat). Melegítsünk be. 3-4 alkalommal klikkeljünk és adjunk jutalomfalatot (K/J), hasonlóan, mint ahogy a kondicionálás során tettük. Ez elég lesz arra, hogy kutyánk belelendüljön a „kattogtatós játékba”. Innentől azonban a szabály egy kicsit változik. Most már nem mindegy, mikor klikkelünk. Figyeljük kiskutyánkat, aki nyilván mindenfélét fog csinálni. Ha véletlenül leülne, klikkeljünk amikor a feneke éppen elérte a földet, majd adjunk jutalomfalatot. Ha a kutyánk rögtön felugrik a klikker hangjára és a falatot már állva eszi, ne aggódjunk, ez nem probléma. Jegyezzük meg, a klikker hangja a gyakorlat végét jelzi, azaz amint a kutya meghallja, szabadon azt tehet, amit csak akar (többnyire hozzánk rohan a jól megérdemelt jutalomért). Ez eleinte picit furcsának tűnhet, de ne aggódjunk. Ha a kutyánk megette a falatot, újra helyezkedjünk figyelőállásba, hogy elcsíphessük a következő ülését. (ha véletlenül ülve marad volna, és ülés közben ette meg a falatot az sem baj, mozduljunk el egy kicsit, hogy felkeljen). Következő ülésénél K/J újra. Figyeljünk arra, hogy pontosan akkor történjen, amikor a kutya feneke elérte a földet. Az időzítés nagyon fontos! Ha nem vagyunk túl jók benne, egy jó tanács: Inkább korábban klikkeljünk mint később. Ha később klikkelünk mint kellene, esetleg olyan dolgot taníthatunk, amit nem akartunk igazából (például nem a leülést hanem az ülésből felkelést, és a kutyánk mindig csak egy pillanatra fog leülni és egyből fel is ugrik magától). Ha egy picit korábban klikkelünk, akkor ilyen veszély nincs, legfeljebb kicsit lassabban fogunk haladni.
 
  

@@ -1,4 +1,8 @@
-# Keresztképzett kutyák, avagy eddig hagyományos módszerekkel tanítottam
+---
+layout: default
+title: "Keresztképzett kutyák, avagy eddig hagyományos módszerekkel tanítottam"
+category: tanuljunk
+---
 
 A keresztképzés egy nagyon érdekes szó. Igazából csak annyit takar, hogy van egy kutyánk, amelyet hagyományos módszerekkel tanítottunk és utána áttérünk klikkerezésre. Az ember azt gondolná, hogy ennek nem kell cikket szentelni, hiszen milyen probléma merülhetne fel, ha egy kutyát büntetéses módszer után pozitív megerősítéssel akarunk tanítani?!
 

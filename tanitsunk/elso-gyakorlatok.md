@@ -1,7 +1,9 @@
-Az első gyakorlatok (kölyök kutyáknak)	PDF	Nyomtatás
-Olvasóink értékelése: / 113 
-ElégtelenKitűnő 
-Írta: Hornig Rudolf	  
+---
+layout: default
+title: "Az első gyakorlatok (kölyök kutyáknak)"
+category: tanitsunk
+---
+
 Az első gyakorlat
 Most, hogy elkezdhetjük kutyánk tényleges tanítását, el kell döntenünk, hogy mi legyen, amit először megtanítunk neki. Mindenképpen valami olyat válasszunk, ami nagyon egyszerű és rövid lefolyású. Ha felnőtt kutyánk van, aki már bizonyos gyakorlatokat jól-rosszul elsajátított, akkor semmi esetre se tanítsunk olyat, amit már tud, mert a már megtanult gyakorlat zavarhatja a munkánkat. A gyakorlatnak nem is kell feltétlenül hasznosnak lennie, hiszen most nem az a cél, hogy egy konkrét dolgot megtanuljon a kutyánk, hanem inkább az, hogy a klikkerrel való tanulás képességét elsajátítsa (és mi is a tanítást!!!). Ha kölyökkutyánk van választhatjuk, például az ülés vagy fekvés gyakorlatot. Ez azért is könnyű mert a kutya magától is ül, vagy fekszik, tehát nem kell valami gyökeresen újat elsajátítania. Válasszuk mondjuk az ülést. (Felnőtt, már képzett kutyánál inkább valamilyen más gyakorlattal pl. célkövetéssel, pálcázással érdemes kezdeni. Lásd egy későbbi cikkben.)
 

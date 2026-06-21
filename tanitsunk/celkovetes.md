@@ -1,7 +1,9 @@
-Pálca kontra csalogatás, avagy mi is az a célkövetés	PDF	Nyomtatás
-Olvasóink értékelése: / 9 
-ElégtelenKitűnő 
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Pálca kontra csalogatás, avagy mi is az a célkövetés"
+category: tanitsunk
+---
+
 A célkövetés egy nagyon hasznos feladat és akár az engedelmes munkánál, akár a trükkök tanításánál (amik ugye a dog dancing alapkövei) igen hasznos, de akár a félős, érzékeny kutyák későbbi rehabilitációjában is nagyon sokat segíthet. Az emberek egy része a célkövetést néha összetéveszti a megvezetéssel, vagy csak nem értik, hogy minek célkövetni, ha a kutyát jutalomfalattal is a kívánt pozícióba csalogathatjuk. Ráadásul ugye kimarad egy lépés, egy feladattal kevesebbet kell tanítani. Ámde a kettő között óriási különbség van.
 
 A klikkeres kutyák nagy többsége tudja, hogy a jutifaliért meg kell dolgoznia, ezért igen aktívak. Munka közben általában gondolkoznak (megpróbálják kitalálni, mi a jó és mi nem), ámde, ha kaját dugunk az orruk alá, meg sem próbálnak gondolkodni, csak mennek a kaja után és közben a szokásos: "add már ide, naaa, hadd egyem meg, jaj de akarom" szituáció játszódik le bennük. Tehát amikor egy kutyát megvezetek, az agya tanulási része kissé kikapcsol és átáll követésre. Persze ez nem jelenti azt, hogy ilyen módon nem lehet őket megtanítani. Természetesen lehet, és sok iskolán használják is, még a klikkeres szemléletéről híres Népszigeti Kutyasulin is. Ennek az az egyszerű oka, hogy ez a módszer hatékony és nagy tömegben jól működtethető, ráadásul nem igényel túl sok odafigyelést (sem a gazdától, sem a kiképzőtől). Ámde bármennyire is hatékony, kissé lassabb, mint a célkövetés, hiszen egyrészt: a kaja/labda elvonja a kutya figyelmét arról, hogy éppen mit csinál, valamint a kaja mint jel beépül a feladatba és később (illetve minél hamarabb) ki kell onnan venni.

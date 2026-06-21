@@ -1,8 +1,57 @@
 ---
 layout: default
+hero: true
+title: "Kezdőlap"
 ---
-# Üdvözöllek a Klikkeres Képzés Weboldalán!
-Szeretettel üdvözöllek a klikkeres képzés világában! Ezen az oldalon mindent megtalálsz, ami a klikkeres képzésről szól, legyen szó a képzés alapjairól, vagy gyakorlatokról. Fedezd fel a klikkeres képzés izgalmas világát!
+<section class="hero">
+  <div class="hero__bubbles" aria-hidden="true">
+    <span class="hero__bubble">🐶</span>
+    <span class="hero__bubble">🦴</span>
+    <span class="hero__bubble">🐱</span>
+    <span class="hero__bubble">🐾</span>
+  </div>
+  <div class="hero__inner">
+    <span class="hero__badge">CLICK! 🦴</span>
+    <h1>Üdvözöllek a Klikkeres Képzés Weboldalán!</h1>
+    <p class="hero__lead">Szeretettel üdvözöllek a klikkeres képzés világában! Ezen az oldalon mindent megtalálsz, ami a klikkeres képzésről szól, legyen szó a képzés alapjairól, vagy gyakorlatokról. Fedezd fel a klikkeres képzés izgalmas világát!</p>
+    <div class="hero__actions">
+      <a class="btn btn--grass" href="/tanuljunk/">Tanuljunk 📚</a>
+      <a class="btn btn--sky" href="/tanitsunk/">Tanítsunk 🐶</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <ul class="card-grid">
+    <li>
+      <a class="card card--grass" href="/tanitsunk/">
+        <span class="card__emoji">🐶</span>
+        <span class="card__title">Tanítsunk</span>
+        <span class="card__desc">Gyakorlatok lépésről lépésre: ültetés, bukfenc, integetés és még sok más mókás trükk.</span>
+        <span class="card__more">Gyakorlatok →</span>
+      </a>
+    </li>
+    <li>
+      <a class="card card--sky" href="/tanuljunk/">
+        <span class="card__emoji">📚</span>
+        <span class="card__title">Tanuljunk</span>
+        <span class="card__desc">Az elmélet: hogyan tanulnak az állatok, mi az időzítés, a jelek és a megerősítés titka.</span>
+        <span class="card__more">Elmélet →</span>
+      </a>
+    </li>
+    <li>
+      <a class="card card--coral" href="/macska.html">
+        <span class="card__emoji">🐱</span>
+        <span class="card__title">Macska</span>
+        <span class="card__desc">Igen, a macska is klikkerezhető! Csak épp a maga makacs, cicás módján.</span>
+        <span class="card__more">Cicázzunk →</span>
+      </a>
+    </li>
+  </ul>
+</section>
+
+<section class="section section--tight">
+<div class="prose" markdown="1">
 
 # Mi is az a KLIKKER ?
 
@@ -19,42 +68,45 @@ a tanulás és a tanítás alapjaival.
 
 Készen állsz rá, hogy tudatosan megfigyeld saját magadat és a környezetedet? Készen állsz arra, hogy a tanítás idejére
 elfelejtsd a haragot, a dühöt és a büntetést? Készen állsz arra, hogy elfogadd, hogy ha nem tudsz előre lépni, az nem
-a tanuló hibája, hanem a tiéd? Készen állsz mindazokra a sikerekre, amelyek a jövőben érni fognak, ha nem a sikertelenségeken keseregsz, hanem  végiggondolod annak okait? 
+a tanuló hibája, hanem a tiéd? Készen állsz mindazokra a sikerekre, amelyek a jövőben érni fognak, ha nem a sikertelenségeken keseregsz, hanem  végiggondolod annak okait?
 Készen? Akkor mi megtanítunk erre. Harag, kényszer és büntetés nélkül.
 
 Ehhez csak pár dologra lesz szükséged: klikkerre, jutalomra, legalább egy tanulóra, napi pár percre, türelemre
 és arra, hogy képes légy a csúcson abbahagyni. És természetesen arra is, hogy átböngészd ezt az oldalt.
 
-## Mit ajánlunk? 
+## Mit ajánlunk?
 
 A honlap elrendezésében külön veszi az elméletet (tanuljunk) és a gyakorlatot (tanítsunk). Ne ess abba a hibába,
 hogy a gyors haladás érdekében rögtön tanítani akarsz. Lehet, hogy a kezdeti sikerek Téged igazolnának, csakhogy
 az elmélet legalább részleges megértése nélkül későbbiekben nem leszel képes felismerni a saját hibáidat és ezáltal
 ahelyett, hogy teljesítményetek megugrana, vissza fog esni. Megpróbáljuk videókkal szemléltetni, hogy mi hogy
 csináljuk. Amennyiben már régi látogatónk vagy, hogy ne kelljen végignézned minden oldalt, az újdonságok között
-megtalálhatod a legfrissebb cikkeinket. 
+megtalálhatod a legfrissebb cikkeinket.
 
 És mit ajánlunk még? Azt ajánljuk, hogy tedd szórakoztatóvá a tanítást. Nem csak az alany részére, hanem
 saját magadnak is. Taníts olyan dolgokat, amelyek merőben feleslegesek, de szórakoztatnak Téged.
 
 ## Klikker-érzés:
 
-- Gyere, játsszál velem - javasolta a kis herceg. - Olyan szomorú vagyok...
-- Nem játszhatom veled - mondta a róka. - Nem vagyok megszelídítve.
-- Ó, bocsánat! - mondta a kis herceg. Némi tűnődés után azonban hozzátette: - Mit jelent az, hogy "megszelídíteni"?
-
-- Olyasmi, amit nagyon is elfelejtettek - mondta a róka. - Azt jelenti: kapcsolatokat teremteni.
-- Kapcsolatokat teremteni?
-- Úgy bizony - mondta a róka. - Te pillanatnyilag nem vagy számomra más, mint egy ugyanolyan kisfiú, mint a többi száz-
-  meg százezer. És szükségem sincs rád. Ahogyan neked sincs énrám. Számodra én is csak ugyanolyan róka vagyok, mint a
-  többi száz- meg százezer. De ha megszelídítesz, szükségünk lesz egymásra. Egyetlen leszel számomra a világon. És én
-  is egyetlen leszek a te számodra...
-
-- Jó, jó, de hogyan? - kérdezte a kis herceg.
-- Sok-sok türelem kell hozzá - felelte a róka. - Először leülsz szép, tisztes távolba tőlem, úgy, ott a fűben.
-  Én majd a szemem sarkából nézlek, te pedig nem szólsz semmit. A beszéd csak félreértések forrása. De minden
-  áldott nap egy kicsit közelebb ülhetsz...
+> - Gyere, játsszál velem - javasolta a kis herceg. - Olyan szomorú vagyok...
+> - Nem játszhatom veled - mondta a róka. - Nem vagyok megszelídítve.
+> - Ó, bocsánat! - mondta a kis herceg. Némi tűnődés után azonban hozzátette: - Mit jelent az, hogy "megszelídíteni"?
+>
+> - Olyasmi, amit nagyon is elfelejtettek - mondta a róka. - Azt jelenti: kapcsolatokat teremteni.
+> - Kapcsolatokat teremteni?
+> - Úgy bizony - mondta a róka. - Te pillanatnyilag nem vagy számomra más, mint egy ugyanolyan kisfiú, mint a többi száz-
+>   meg százezer. És szükségem sincs rád. Ahogyan neked sincs énrám. Számodra én is csak ugyanolyan róka vagyok, mint a
+>   többi száz- meg százezer. De ha megszelídítesz, szükségünk lesz egymásra. Egyetlen leszel számomra a világon. És én
+>   is egyetlen leszek a te számodra...
+>
+> - Jó, jó, de hogyan? - kérdezte a kis herceg.
+> - Sok-sok türelem kell hozzá - felelte a róka. - Először leülsz szép, tisztes távolba tőlem, úgy, ott a fűben.
+>   Én majd a szemem sarkából nézlek, te pedig nem szólsz semmit. A beszéd csak félreértések forrása. De minden
+>   áldott nap egy kicsit közelebb ülhetsz...
 
 Részletek a Kishercegből.
 
-Szelidíts meg
+**Szelidíts meg**
+
+</div>
+</section>

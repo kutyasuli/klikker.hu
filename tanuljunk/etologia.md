@@ -1,5 +1,8 @@
-A klikker-tréning etológiája
-Írta: Karen Pryor
+---
+layout: default
+title: "A klikker-tréning etológiája"
+category: tanuljunk
+---
 
 A két tudomány
 Nagyjából az 1940-es évektől két teljes mértékben különböző tudományág kezdett kifejlődni az állatok viselkedésével kapcsolatban. Az egyik arra koncentrált, hogy az állatok mit tesznek a természetes környezetükben: a fajok öröklött viselkedéseire. Az öröklött viselkedések,- mint a vadászat, keresés, szaporodás, dominancia, szexuális magatartás és így tovább-, az evolúció eredményei és nagy mértékben a genetika irányítja őket. Ezt a területet etológiának hívják, vagy egyszerűen csak az állatok viselkedésének. A terület legismertebb kutatója Konrad Lorenz volt. USA és Európa egyetemein mindenhol találhatunk etológia tanszéket. Ezeket a Természettudományi Kar, biológia tanszék épületein belül találhatjuk meg.

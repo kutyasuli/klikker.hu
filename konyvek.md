@@ -1,4 +1,9 @@
-Könyvajánló	PDF	Nyomtatás
+---
+layout: default
+title: "Könyvajánló"
+category: reszletek
+---
+
 Széleskörű, emberséges felhasználhatósága és hatékonysága miatt egyre több ember vált át  a klikkerképzésre magyarországon is, ezt azonban nem tükrözi az elérhető magyar nyelvű irodalom mennyisége. A könyvesboltokban jelenleg csak egy könyv képviseli ezt a nagyszerű tanítási módot, de az internetnek köszönhetően az idegen nyelvű könyvek széles és változatos skálája vált elérhetővé- főleg angolul és németül tudó emberek számára. Természetesen iskolánk mindent megtesz annak érdekében, hogy ez az arány a jövőben megváltozzon. 
 
 MAGYAR KÖNYVEK 

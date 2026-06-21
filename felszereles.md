@@ -1,4 +1,9 @@
-Felszerelés	PDF	Nyomtatás
+---
+layout: default
+title: "Felszerelés"
+category: reszletek
+---
+
 Ha klikkerezni szeretnél, akkor a következőekre lehet szükséged:
 
 1 db állat, vagy ember

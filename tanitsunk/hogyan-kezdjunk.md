@@ -1,8 +1,9 @@
+---
+layout: default
+title: "Hogyan kezdjünk klikkerezni?"
+category: tanitsunk
+---
 
-Hogyan kezdjünk klikkerezni?	PDF	Nyomtatás
-Olvasóink értékelése: / 92 
-ElégtelenKitűnő 
-Írta: Hornig Rudolf	  
 Mielőtt belevágnánk a klikkerezésbe, mindenképpen érdemes elolvasni a klikkeres tanításról szóló elméleti cikkeket. Sokat segíthetnek annak megértésében, hogy mit miért is csinálunk.
 
 elsődleges megerősítés

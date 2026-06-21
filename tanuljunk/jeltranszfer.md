@@ -1,5 +1,8 @@
-Jeltranszfer
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Jeltranszfer"
+category: tanuljunk
+---
 
 Jeltranszfer alatt azt értjük, amikor egy már megtanított, jelhez kötött viselkedést egy másik jelhez kötünk. Ennek több oka is lehet. Idő közben rájöttünk, hogy a jel hasonlít egy másik jelhez és ezért a kutya keveri a viselkedéseket, vagy a kutyát egy külföldi gazdinak szeretnénk átadni, de ismerek olyan embert, aki tanítási okból tette át a jelet: Rudi kutyája, Chat, gyönyörűen ült az ül vezényszóra, gyorsan reagált, gyorsan ült, viszont a fektetése viszonylag lassú volt. Előbb gyorsan letette az elejét, mintegy meghajolva, majd lassan tette le a hátsóját. Rudi sokáig gondolkozott, hogy mit tehetne, és végül úgy döntött, hogy az ül viselkedést átteszi egy elnyújtott F-re (ffff). Amikor ezzel megvolt, akkor kiadta a vezényszót: fffekszik. Az ff-re Chat elkezdte letenni a hátsóját, viszont a fekszikre az elejét tette le. Az F betű nyújtásának szabályozásával meghatározta azt a sebességet, hogy hogyan feküdjön le a kutya, míg a végeredmény egy gyors, lábkirántásos lefekvés lett. Amikor kialakult a végleges fekvés, akkor pedig a viselkedés jelét áttette egy új jelre.
  

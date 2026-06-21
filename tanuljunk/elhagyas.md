@@ -1,5 +1,8 @@
-A klikker elhagyása
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "A klikker elhagyása"
+category: tanuljunk
+---
 
 Sokan, akik a klikker használata ellen vannak, azzal érvelnek, hogy a klikkerrel az a baj, hogy életünk végéig klikkerrel és kajával a zsebünkben kell élnünk. Pedig erről szó sincs. A klikker egy kiképzési segédeszköz, ami annyit jelent, hogy addig van szükségünk van rá, amíg a kutya megtanulja a kívánt viselkedést/viselkedéseket. Persze a legtöbb kutyás esetében ez egy végtelen ciklus, mert mindenki először azzal kezdi: jaj, csak azt szeretném, hogy Bocika ne húzzon. És ha megelégedne ennyivel, akkor itt le is tehetné a klikkert (a hogyanról fog szólni a cikk). De amikor gazdink megtanítja Bocikának, hogy ne húzzon, akkor eszébe jut, hogy: jó-jó, de annyira jó lenne, ha Bocika le tudna ülni, amikor azt mondom. És lőn. Élhetnének boldogan, de aztán eszébe jut, hogy de hát mi lenne, ha el is engedhetné a kutyát? És akkor megtanítja a behívást. Aztán otthon ebédnél Bocika kunyerál és a gazdi ölébe teszi a mancsát.. Gazdink elmosolyodik, előkapja a klikkert és ráerősít... Aztán valamelyik délután gazdink és kutyája látványosan unatkoznak, és ezért gazdink eszébe jut: "Hűű, mennyire jó volt az a kutya a téren, amelyik meghajolt a "Bravó"-ra... De hát ezt én is meg tudnám tanítani... Na gyere Bocika!" És Bocika farokcsóválva rohan játszani klikkeres játékot. És elkezdődik az örök körforgás. Ha megvan az egyik viselkedés, akkor jön a másik. Mert a gazdi rájön, hogy ez egy jó játék. 
 

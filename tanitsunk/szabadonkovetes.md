@@ -1,7 +1,9 @@
-Szabadonkövetés	PDF	Nyomtatás
-Olvasóink értékelése: / 8 
-ElégtelenKitűnő 
-Írta: Vlcek Gabriella	  
+---
+layout: default
+title: "Szabadonkövetés"
+category: tanitsunk
+---
+
 Pákó és Nóra vizsgáznakA klikker-kiképzők véleménye is sok esetben megoszlik, hogy  a szabadonkövetést melyik módszerrel érdemes tanítani, formálással, avagy célkövetéssel.
 
 A szabadonkövetés tipikusan az a feladat, amelyet a legtöbb iskola megvezetéssel, csalogatással tanít,- mondhatni szerencsére, hiszen nem is olyan rég még a fojtó, vagy szöges nyakörvhöz kapcsolt pórázt rángatták finom, precíz mozdulatokkal, rosszabb esetben minden fajta hozzáértés nélkül, durván. Szerencsére mára az összes kutyás sportban kemény pontokat vonnak le, amennyiben a kutya kedvtelenül, esetleg félelemmel dolgozik, és a modellezős módszernek (pl. pórázrángatás) ez bizony komoly mellékhatása. Mára a legtöbb kutyaiskolán már csak pontosításra veszik elő a fojtó, vagy a szöges nyakörvet, holott erre sem lenne szükség.

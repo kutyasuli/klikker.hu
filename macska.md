@@ -1,7 +1,9 @@
-Klikkerezés macskával	PDF	Nyomtatás
-Olvasóink értékelése: / 25 
-ElégtelenKitűnő 
-Írta: Vámosi-Nagy Nóra	  
+---
+layout: default
+title: "Klikkerezés macskával"
+category: reszletek
+---
+
 klikkerképzés minden állatnál működik és mindnél ugyanúgy működik. De természetesen vannak különbségek is. Hiszen más környezetben dolgozunk egy aranyhallal, mint egy lóval, más számít megerősítésnek egy madár, vagy egy rágcsáló esetében, illetve más a viszonyunk egy lakásban lakó kedvenccel, mint egy kertben tartott haszonállattal. 
 
 A macska a közvetlen környezetünkben él, de egyes vélemények szerint a mai napig nincs megszelídítve teljesen, hiszen vadászik és eltartja magát, ha kell. Az mindenesetre biztos, hogy a macska nem olyan ember-centrikus, mint a kutya. Nem falkában él, nem rendeli magát alá senkinek és legfőbb motivációja a saját kényelmének elérése. Persze macska és macska között is van különbség. Találkoztam olyan cicával is, aki már szinte kutya volt, sétált a gazdával, nagyon kötődött hozzá, de nem ez a jellemző. Ezt fontos tudnunk, mielőtt elkezdünk dolgozni, főleg, ha előtte kutyával már klikkereztünk. Míg a kutyát az is motiválja a tanulás során, hogy nekünk megfeleljen és közösen oldjunk meg feladatokat, a macska tisztán csak a kajáért dolgozik és csakis addig, amíg tényleg éhes. 

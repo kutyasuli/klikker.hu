@@ -1,8 +1,9 @@
-PDF	Nyomtatás
-Olvasóink értékelése: / 49 
-ElégtelenKitűnő 
-Írta: Vlcek Gabriella	  
-Sok esetben jó, ha a kutya húz
+---
+layout: default
+title: "Sok esetben jó, ha a kutya húz"
+category: tanitsunk
+---
+
 Sok esetben jó, ha a kutya húz
 
 Bár mára a legtöbb kutyaiskolán már csak a szabadonkövetés pontosítására veszik elő a fojtó, vagy a szöges nyakörvet, mégis az utcán sétálva rengeteg nagy testű, pórázon sétáltatott kedvenc nyakában fojtóra kapcsolt nyakörvet lehet látni. És a póráz végén bizony ott lohol a rohanó-húzó kutya után, az a gazdi, aki saját bevallása szerint úgy szereti a kutyáját, mintha a gyermeke lenne. Ha megkérdeznénk tőlük, hogy a fojtó nyakörv használata segített-e abban, hogy a kutya kevésbé húzzon, vagy esetleg megszüntette-e a problémájukat, rengetegen azt mondanák, hogy valamivel jobb lett, de ez csak a saját mentségük érdekében hangzana el. Ha őszintén kellene válaszolniuk, akkor azt mondanák, hogy talán valamit, de nem jelentős, sőt, alig észrevehető változás történt. Ezt azért nem vallja be senki, mert akkor szembe kellene nézniük azzal, hogy hosszú hónapok óta minden séta folyamán fojtogatják a kutyájukat, már cél és eredmény nélkül, csak a remény miatt.

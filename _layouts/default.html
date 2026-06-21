@@ -1,51 +1,102 @@
 <!DOCTYPE html>
-<html>
+<html lang="hu">
   <head>
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }} • {% endif %}{{ site.title }}</title>
-    {% if page.excerpt %}<meta name="description" content="{{ page.excerpt | strip_html }}">{% endif %}
-    {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-    {% if page.author %}
-      {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
-    {% endif %}
-    {% include open-graph.html %}
+    {% if page.description %}<meta name="description" content="{{ page.description | strip_html }}">{% elsif site.description %}<meta name="description" content="{{ site.description }}">{% endif %}
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#ffd23f">
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
     <link href="{{ site.url }}/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
 
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="cleartype" content="on">
+    <link rel="icon" href="{{ site.url }}/favicon.ico">
+    <link rel="apple-touch-icon" href="{{ site.url }}/images/apple-touch-icon-precomposed.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="{{ site.url }}/css/main.css">
-    <!-- HTML5 Shiv and Media Query Support for IE -->
-    <!--[if lt IE 9]>
-      <script src="{{ site.url }}/js/vendor/html5shiv.min.js"></script>
-      <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
-    <![endif]-->
-
   </head>
 
   <body>
-    <main>
-      <div id="main" role="main" class="main">
-        {{ content }}
+    <a class="skip-link" href="#main">Ugrás a tartalomra</a>
+
+    <header class="site-header">
+      <div class="site-header__inner">
+        <a class="brand" href="{{ site.url }}/">
+          <span class="brand__paw" aria-hidden="true">🐾</span>
+          <span class="brand__name">klikker<span class="brand__dot">.</span>hu</span>
+        </a>
+
+        <button class="nav-toggle" aria-label="Menü" aria-expanded="false" aria-controls="primary-nav">
+          <span class="nav-toggle__bar"></span>
+          <span class="nav-toggle__bar"></span>
+          <span class="nav-toggle__bar"></span>
+        </button>
+
+        <nav class="primary-nav" id="primary-nav" aria-label="Főmenü">
+          <ul class="primary-nav__list">
+            {% for link in site.data.navigation %}
+              {% assign is_active = false %}
+              {% if page.category and link.title == 'Tanítsunk' and page.category == 'tanitsunk' %}{% assign is_active = true %}{% endif %}
+              {% if page.category and link.title == 'Tanuljunk' and page.category == 'tanuljunk' %}{% assign is_active = true %}{% endif %}
+              {% if page.category and link.title == 'Részletek' and page.category == 'reszletek' %}{% assign is_active = true %}{% endif %}
+              <li class="primary-nav__item {% if link.subitems %}has-submenu{% endif %} {% if is_active %}is-active{% endif %}">
+                <a href="{{ site.url }}{{ link.url }}">{{ link.title }}{% if link.subitems %} <span class="caret" aria-hidden="true">▾</span>{% endif %}</a>
+                {% if link.subitems %}
+                  <ul class="submenu">
+                    {% for subitem in link.subitems %}
+                      <li><a href="{{ site.url }}{{ subitem.url }}">{{ subitem.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
+            {% endfor %}
+          </ul>
+        </nav>
       </div>
+    </header>
+
+    <main id="main" class="main">
+      {% if page.hero %}
+        {{ content }}
+      {% else %}
+        <article class="article">
+          <header class="article__header">
+            <span class="article__paw" aria-hidden="true">🐾</span>
+            <h1 class="article__title">{{ page.title }}</h1>
+          </header>
+          <div class="prose">
+            {{ content }}
+          </div>
+          <p class="article__back"><a href="{{ site.url }}/">← Vissza a kezdőlapra</a></p>
+        </article>
+      {% endif %}
     </main>
+
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <button class="mascot" id="mascot" type="button" aria-label="Klikk!">
+          <span class="mascot__click" aria-hidden="true">KLIKK!</span>
+          <span class="mascot__body">
+            <span class="mascot__btn"></span>
+          </span>
+        </button>
+        <p class="site-footer__tag">Szelídíts meg 🦊</p>
+        <nav class="site-footer__nav" aria-label="Lábléc menü">
+          <a href="{{ site.url }}/">Kezdőlap</a>
+          <a href="{{ site.url }}/tanitsunk/">Tanítsunk</a>
+          <a href="{{ site.url }}/tanuljunk/">Tanuljunk</a>
+          <a href="{{ site.url }}/definiciok.html">Definíciók</a>
+        </nav>
+        <p class="site-footer__copy">klikker.hu — kényszer, büntetés és félelem nélkül 🐶🐱🐴🐦</p>
+      </div>
+    </footer>
+
+    <script src="{{ site.url }}/js/site.js"></script>
   </body>
-</html>
-
-    <div id="page-wrapper">
-      {{ content }}
-      {% include footer.html %}
-    </div>
-
-    <script src="{{ site.url }}/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="{{ site.url }}/js/main.js"></script>
-
-  </body>
-
 </html>
