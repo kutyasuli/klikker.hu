@@ -186,10 +186,10 @@ h3 { font-size: 1.35rem; }
    Card grids
    ========================================================================= */
 .card-grid {
-  display: grid; gap: 1.4rem;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  display: flex; flex-wrap: wrap; gap: 1.4rem; justify-content: center;
   list-style: none; margin: 0; padding: 0;
 }
+.card-grid > li { flex: 1 1 240px; max-width: 340px; }
 .card {
   display: flex; flex-direction: column;
   background: var(--paper); border: 3px solid var(--ink); border-radius: var(--radius);
